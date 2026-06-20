@@ -12,6 +12,7 @@ The goal of the prototype is to demonstrate how an AI assistant can support data
 
 ## Context
 "https://m365.cloud.microsoft/chat/agent/T_9060d8ce-b5be-99ee-9ab7-03718d1ee4de.a29e6a96-bf50-450b-ba28-01c2e39c9876.gpt.89f6d554-2485-4092-b165-21f17a5d8091"
+
 The demo is inspired by a Werkstudent position in data processing for fleet management. The role includes data comparison, data quality improvement, Excel-based reporting, automation, and AI-supported analysis.
 
 ## Demo Data
